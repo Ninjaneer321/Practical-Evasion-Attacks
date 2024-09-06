@@ -2,7 +2,7 @@
 
 1. The data are available at: [![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.13692004.svg)](https://doi.org/10.5281/zenodo.13692004)
 
-2. place the downoaded `.zip` file in the project folder
+2. place the downloaded `.zip` file in the project folder
 
 3. Verify the integrity of the dataset by running the following command:
 
@@ -40,6 +40,8 @@ Practical-Evasion-Attacks/
 │
 └── README.md
 ```
+
+The data were generated based on [DHALSIM v0.6.0](https://github.com/Critical-Infrastructure-Systems-Lab/DHALSIM/releases/tag/v0.6.0)
 
 When using the code or the data please cite our work
 
